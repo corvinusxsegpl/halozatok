@@ -19,7 +19,7 @@ body {
 }
 
 #header {
-    background-color: tomato;
+    background-color: blue;
 }
 
 #nav {
@@ -28,7 +28,7 @@ body {
 
 #article {
     text-align: left;
-    background: gold;
+    background: orange;
 }
 
 #aside {
@@ -36,7 +36,9 @@ body {
 }
 
 #footer {
-    background: hotpink;
+    background: yellow;
+    width: 100%;
+    align-content:center;
 }
 
 /* menü */
