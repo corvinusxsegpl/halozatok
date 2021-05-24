@@ -1,0 +1,108 @@
+﻿html,body {
+    height:85%;
+}
+
+div {
+    margin:10px;
+    padding:10px;
+    border:4px grey;
+    border-radius:10px;
+}
+#külső {
+    height:100px;
+    display:flex;
+    flex-direction:column;
+    background-color:dimgrey;
+}
+
+header {
+    padding:20px;
+    text-align:center;
+}
+
+#vezérlő {
+    width:50%;
+    display:flex;
+    flex-direction:row;
+    justify-content:center;
+    margin: 0 auto;
+    background-color:darkblue;
+}
+
+.gomb {
+    padding:20px;
+    width:80px;
+    background-color:darkgrey;
+    color:white;
+    text-align:center;
+}
+
+.kattinthato:hover {
+    background-color:indigo;
+    color:white;
+}
+
+#ÍzList {
+
+    margin-top:60px;
+    margin-bottom:20px;
+    font-weight:bold;
+    font-size:20pt;
+    text-align:center;
+    padding:20px;
+    background-color:dimgray;
+    color:beige
+}
+
+#ujDohany {
+    margin:0 auto;
+    background-color:red;
+    width:50%;
+}
+
+.formaz {
+    margin:0 auto;
+}
+
+.txtbox {
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    margin-bottom:12px;
+}
+
+.futerclass, .cim {
+    background-color:dimgray;
+    font-weight:bold;
+    color:wheat
+}
+
+.link {
+
+    padding:20px;
+    width:40%;
+    margin:0 auto;
+    text-align: center;
+    background-color:black;
+    font-size:14pt;
+}
+
+#indexkülső {
+    background-color:darkslategrey;
+    width:80%;
+    margin:0 auto;
+}
+
+.dolog {
+    padding:5px;
+    text-align:center;
+    font-size:14pt;
+    font-weight:800;
+    color:black
+}
+.hozzaad {
+    float:left;
+}
+.torol {
+    float:right;
+}

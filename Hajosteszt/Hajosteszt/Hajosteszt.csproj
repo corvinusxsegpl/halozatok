@@ -6,6 +6,7 @@
 
   <ItemGroup>
     <None Include="wwwroot\index.html" />
+    <None Include="wwwroot\vizipipadohany.html" />
   </ItemGroup>
 
   <ItemGroup>
